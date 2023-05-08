@@ -6,7 +6,7 @@ This is an advanced and improved version of [PythonAlgorithmicTrading](https://g
       
       Market-adaptive portfolio management 
       
-      Risk-adjusted entry/exit point
+      Risk/volatility adjusted entry/exit point
       
       Noise filteration
       
