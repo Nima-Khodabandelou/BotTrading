@@ -10,7 +10,7 @@ This is an advanced and improved version of [PythonAlgorithmicTrading](https://g
       
       Sentiment analysis      
       
-      Passive/Real-time trading factors including
+      Passive and Real-time trading factors including
       
          look-ahead bias
          spread
