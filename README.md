@@ -4,8 +4,6 @@ This is an advanced and improved version of PythonAlgorithmicTrading project tak
 
       Focus on adaptive risk, money, and portfolio management
 
-      Lesser but more efficient code      
-  
       No look-ahead bias
       
       Statistical analysis      
