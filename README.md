@@ -4,13 +4,9 @@ This is an advanced and improved version of [PythonAlgorithmicTrading](https://g
 
       Adaptive risk, money, and portfolio management  
       
-      Statistical analysis      
+      Statistical and parametric analysis      
       
-      Parametric study
-      
-      optimization (Monte Carlo method)
-      
-      Sentiment analysis      
+      optimization (Monte Carlo method)      
       
       Passive/Real-time trading factors
       
@@ -20,6 +16,9 @@ This is an advanced and improved version of [PythonAlgorithmicTrading](https://g
          swap
       
       Trading sessions
+      
+      Sentiment analysis      
+
       
       
       
