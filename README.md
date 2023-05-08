@@ -6,11 +6,13 @@ This is an advanced and improved version of [PythonAlgorithmicTrading](https://g
       
       Statistical analysis      
       
-      Parametric study and optimization without overfitting
+      Parametric study
+      
+      optimization (Monte Carlo method)
       
       Sentiment analysis      
       
-      Passive and Real-time trading factors including
+      Passive/Real-time trading factors
       
          look-ahead bias
          spread
