@@ -1,6 +1,6 @@
 # BotTrading
 ##
-This is an advanced and improved version of [PythonAlgorithmicTrading](https://github.com/Nima-Khodabandelou/PythonAlgorithmicTrading)  project taking into account the following considerations:
+This is an improved version of [PythonAlgorithmicTrading](https://github.com/Nima-Khodabandelou/PythonAlgorithmicTrading)  project taking into account the following considerations:
       
       Instruments correlation and coefficient of variation
       
