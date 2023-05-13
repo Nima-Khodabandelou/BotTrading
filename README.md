@@ -9,6 +9,8 @@ This is an improved version of [PythonAlgorithmicTrading](https://github.com/Nim
       Risk/volatility adjusted entry/exit point
       
       Noise filteration
+
+      Time analysis 
       
       Market regimes detection
       
