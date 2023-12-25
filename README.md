@@ -2,32 +2,29 @@
 ##
 This is an improved version of [PythonAlgorithmicTrading](https://github.com/Nima-Khodabandelou/PythonAlgorithmicTrading)  project taking into account the following considerations:
       
-      Instruments correlation and coefficient of variation
+      Instruments Correlation and Coefficient of Variation
       
-      Market-adaptive portfolio management 
+      Market-Adaptive Portfolio Management 
       
-      Risk/volatility adjusted entry/exit point
-      
-      Noise filteration
+      Risk/Volatility Adjusted Entry/Exit Point  
 
-      Time analysis 
+      Market Regimes Detection
       
-      Market regimes detection
+      Statistical and Parametric Analysis      
       
-      Statistical and parametric analysis      
+      Optimization (Monte Carlo Method)      
       
-      optimization (Monte Carlo method)      
+      Passive/Real-time Trading Factors
       
-      Passive/Real-time trading factors
+         Look-Ahead Bias
+         Spread
+         Commission
+         Swap
+         Exchange Fee
       
-         look-ahead bias
-         spread
-         commission
-         swap
+      Trading Sessions
       
-      Trading sessions
-      
-      Sentiment analysis      
+      Sentiment Analysis      
 
       
       
